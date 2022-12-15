@@ -1,0 +1,11 @@
+{
+  "name": "zgadnij-liczbe",
+  "version": "1.0.0",
+  "description": "zgadujesz liczbe i jest gitara",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "kanz",
+  "license": "ISC"
+}
